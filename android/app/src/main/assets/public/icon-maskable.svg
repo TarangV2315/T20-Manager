@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <!-- Full-bleed safe-zone maskable canvas for Android adaptive icons -->
+  <rect width="512" height="512" fill="#064E3B" />
+  <circle cx="256" cy="256" r="240" fill="#022C22" fill-opacity="0.55" />
+  <!-- Emblem scaled comfortably inside central 70% safe zone -->
+  <path
+    d="M256 106L378 152V244C378 321 325 377 256 398C187 377 134 321 134 244V152L256 106Z"
+    fill="#0F172A"
+    stroke="#F59E0B"
+    stroke-width="12"
+    stroke-linejoin="round"
+  />
+  <line x1="230" y1="178" x2="230" y2="314" stroke="#E2E8F0" stroke-width="10" stroke-linecap="round" />
+  <line x1="256" y1="175" x2="256" y2="314" stroke="#E2E8F0" stroke-width="10" stroke-linecap="round" />
+  <line x1="282" y1="178" x2="282" y2="314" stroke="#E2E8F0" stroke-width="10" stroke-linecap="round" />
+  <line x1="222" y1="173" x2="254" y2="173" stroke="#F59E0B" stroke-width="8" stroke-linecap="round" />
+  <line x1="258" y1="173" x2="290" y2="173" stroke="#F59E0B" stroke-width="8" stroke-linecap="round" />
+  <path d="M194 310L272 184" stroke="#F8FAFC" stroke-width="22" stroke-linecap="round" />
+  <path d="M272 184L292 150" stroke="#F59E0B" stroke-width="10" stroke-linecap="round" />
+  <circle cx="304" cy="288" r="36" fill="#DC2626" stroke="#F8FAFC" stroke-width="7" />
+  <path d="M280 270C296 282 312 298 328 308" fill="none" stroke="#FEE2E2" stroke-width="4.5" stroke-dasharray="6 5" stroke-linecap="round" />
+</svg>
